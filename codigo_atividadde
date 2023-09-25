@@ -36,6 +36,9 @@ botao.pack()
     
 
 janela.mainloop()
+
+
+
 # Apresentando o valor da multa no script.
 
 import tkinter
